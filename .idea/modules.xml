@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../maven_distributed/microservice/microservice.iml" filepath="$PROJECT_DIR$/../maven_distributed/microservice/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven_distributed/microservice-order-provider.iml" filepath="$PROJECT_DIR$/../maven_distributed/microservice-order-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven_distributed/microservicecommon/microservicecommon.iml" filepath="$PROJECT_DIR$/../maven_distributed/microservicecommon/microservicecommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven_distributed/microserviceorderconsumer/microserviceorderconsumer.iml" filepath="$PROJECT_DIR$/../maven_distributed/microserviceorderconsumer/microserviceorderconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven_distributed/microserviceorderprovider/microserviceorderprovider.iml" filepath="$PROJECT_DIR$/../maven_distributed/microserviceorderprovider/microserviceorderprovider.iml" />
+    </modules>
+  </component>
+</project>
